@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+rsg_mini_bi_assistant.egg-info/PKG-INFO
+rsg_mini_bi_assistant.egg-info/SOURCES.txt
+rsg_mini_bi_assistant.egg-info/dependency_links.txt
+rsg_mini_bi_assistant.egg-info/requires.txt
+rsg_mini_bi_assistant.egg-info/top_level.txt
+tests/test_analytics.py
